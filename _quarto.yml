@@ -8,8 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: internship.qmd
+        text: Project
+      - href: viz.qmd
+        text: Data Viz
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:

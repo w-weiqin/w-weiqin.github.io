@@ -1,0 +1,18 @@
+---
+title: "Data Visualization"
+---
+
+## Impact of AI Response Evaluator on Feedback Quality
+
+One of the most successful technical implementations during my internship at **Rally AI** was the development of a response evaluator to filter mystery shopper feedback.
+
+![Valuable Feedback Hit Rate: Before vs After AI Implementation](images/response_eval_success_rate.png)
+
+### The Story Behind the Data
+
+This visualization demonstrates the effectiveness of using AI to ensure the quality of crowdsourced data.
+
+-   **The Quantitative Shift**: Initially, our "hit rate" for valuable feedback was only **40%**. Most users provided unhelpful answers like "good" or "too pricy" just to receive their cash incentive.
+-   **The AI Intervention**: We implemented a response evaluator that analyzed user inputs for logic, depth, and specific reasoning.
+-   **The Result**: After implementation, the accuracy rate of meaningful feedback skyrocketed to **99%**.
+-   **Rationale for the Visualization**: I chose a **Bar Chart** to illustrate this because it clearly highlights the dramatic improvement in data quality. By ensuring that 99% of responses were high-quality, we guaranteed that our clients' funds were being spent on actionable insights rather than "filler" responses.

@@ -1,0 +1,19 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+## My Experience with GenAI
+
+For this assessment, I utilized **Gemini** as a primary tool for both technical troubleshooting and content creation.
+
+### Content Creation with Gemini
+
+One of the most significant ways I used GenAI was for **content generation**. I provided Gemini with my summer internship report from Rally AI and asked it to: \* **Summarize Technical Contributions**: It helped translate my raw report data into concise bullet points for my project page. \* **Draft Narratives**: Gemini assisted in drafting a professional self-introduction for my homepage that balanced my Fintech studies with my passion for competitive basketball. \* **Refining Tone**: The AI helped ensure my writing style was professional and suited for a public-facing portfolio.
+
+### Technical Troubleshooting and Engineering
+
+Beyond writing, Gemini acted as a technical partner for the website's infrastructure: \* **YAML Debugging**: It was instrumental in identifying the strict indentation requirements in the `_quarto.yml` file, which solved several rendering errors. \* **Layout Management**: I used GenAI to learn the specific Quarto syntax needed to create a multi-column layout for my photos and text. \* **Prompt Engineering**: My experience with prompt engineering during my internship helped me provide better context to Gemini, allowing it to generate the specific "Before vs After" data visualization narrative I needed for my hit-rate analysis.
+
+### Personal Insight
+
+As a Year 2 Fintech student transitioning from an accounting background, using GenAI has been a major boost to my productivity. It allowed me to focus on the high-level design and "story" of my website while it handled the complex formatting syntax. I see GenAI not just as a shortcut, but as a bridge that helps me apply my existing business knowledge to new technical challenges.

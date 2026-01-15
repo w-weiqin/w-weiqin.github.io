@@ -1,9 +1,65 @@
 [
   {
+    "objectID": "viz.html",
+    "href": "viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "One of the most successful technical implementations during my internship at Rally AI was the development of a response evaluator to filter mystery shopper feedback.\n\n\n\nValuable Feedback Hit Rate: Before vs After AI Implementation\n\n\n\n\nThis visualization demonstrates the effectiveness of using AI to ensure the quality of crowdsourced data.\n\nThe Quantitative Shift: Initially, our “hit rate” for valuable feedback was only 40%. Most users provided unhelpful answers like “good” or “too pricy” just to receive their cash incentive.\nThe AI Intervention: We implemented a response evaluator that analyzed user inputs for logic, depth, and specific reasoning.\nThe Result: After implementation, the accuracy rate of meaningful feedback skyrocketed to 99%.\nRationale for the Visualization: I chose a Bar Chart to illustrate this because it clearly highlights the dramatic improvement in data quality. By ensuring that 99% of responses were high-quality, we guaranteed that our clients’ funds were being spent on actionable insights rather than “filler” responses."
+  },
+  {
+    "objectID": "viz.html#impact-of-ai-response-evaluator-on-feedback-quality",
+    "href": "viz.html#impact-of-ai-response-evaluator-on-feedback-quality",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "One of the most successful technical implementations during my internship at Rally AI was the development of a response evaluator to filter mystery shopper feedback.\n\n\n\nValuable Feedback Hit Rate: Before vs After AI Implementation\n\n\n\n\nThis visualization demonstrates the effectiveness of using AI to ensure the quality of crowdsourced data.\n\nThe Quantitative Shift: Initially, our “hit rate” for valuable feedback was only 40%. Most users provided unhelpful answers like “good” or “too pricy” just to receive their cash incentive.\nThe AI Intervention: We implemented a response evaluator that analyzed user inputs for logic, depth, and specific reasoning.\nThe Result: After implementation, the accuracy rate of meaningful feedback skyrocketed to 99%.\nRationale for the Visualization: I chose a Bar Chart to illustrate this because it clearly highlights the dramatic improvement in data quality. By ensuring that 99% of responses were high-quality, we guaranteed that our clients’ funds were being spent on actionable insights rather than “filler” responses."
+  },
+  {
+    "objectID": "internship.html",
+    "href": "internship.html",
+    "title": "Internship Project: Rally AI",
+    "section": "",
+    "text": "During the summer of 2025, I interned at Rally AI, an early-stage startup developing an AI-powered marketplace for mystery shoppers. My role involved bridging the gap between business operations and technical development."
+  },
+  {
+    "objectID": "internship.html#overview",
+    "href": "internship.html#overview",
+    "title": "Internship Project: Rally AI",
+    "section": "",
+    "text": "During the summer of 2025, I interned at Rally AI, an early-stage startup developing an AI-powered marketplace for mystery shoppers. My role involved bridging the gap between business operations and technical development."
+  },
+  {
+    "objectID": "internship.html#technical-contributionss",
+    "href": "internship.html#technical-contributionss",
+    "title": "Internship Project: Rally AI",
+    "section": "Technical ContributionsS",
+    "text": "Technical ContributionsS\n\nPrompt Engineering: Developed response evaluators to check user inputs and built consumer profiling logic.\nUI/UX Testing: Designed mockups using Figma and conducted rigorous bug reporting in staging environments.\nFeature Ideation: Investigated “Receipt Fingerprint Hashing” as a method for fake receipt detection."
+  },
+  {
+    "objectID": "internship.html#key-learnings",
+    "href": "internship.html#key-learnings",
+    "title": "Internship Project: Rally AI",
+    "section": "Key Learnings",
+    "text": "Key Learnings\nTransitioning from a finance background to a technical environment, I learned the importance of the “Growth Mindset” and proactive project management in a fast-paced startup."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "w-weiqin's Website",
+    "title": "Home",
     "section": "",
-    "text": "Welcome to my world!"
+    "text": "Welcome to my world!\nI am Wei Qin, a Year 2 Fintech student at the Singapore Institute of Technology (SIT).\n\n\nBeyond the world of finance and technology, I am a passionate athlete. I play competitive basketball and enjoy staying active through regular gym sessions. I believe that the discipline required for sports translates directly into my academic and professional journey.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMore about me\n\nCurrent Major: Applied Computing (Fintech)\nInterests: Financial Data Engineering, Sports Science, and Competitive Basketball.\nGoal: To bridge the gap between financial services and cutting-edge technology."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this assessment, I utilized Gemini as a primary tool for both technical troubleshooting and content creation.\n\n\nOne of the most significant ways I used GenAI was for content generation. I provided Gemini with my summer internship report from Rally AI and asked it to: * Summarize Technical Contributions: It helped translate my raw report data into concise bullet points for my project page. * Draft Narratives: Gemini assisted in drafting a professional self-introduction for my homepage that balanced my Fintech studies with my passion for competitive basketball. * Refining Tone: The AI helped ensure my writing style was professional and suited for a public-facing portfolio.\n\n\n\nBeyond writing, Gemini acted as a technical partner for the website’s infrastructure: * YAML Debugging: It was instrumental in identifying the strict indentation requirements in the _quarto.yml file, which solved several rendering errors. * Layout Management: I used GenAI to learn the specific Quarto syntax needed to create a multi-column layout for my photos and text. * Prompt Engineering: My experience with prompt engineering during my internship helped me provide better context to Gemini, allowing it to generate the specific “Before vs After” data visualization narrative I needed for my hit-rate analysis.\n\n\n\nAs a Year 2 Fintech student transitioning from an accounting background, using GenAI has been a major boost to my productivity. It allowed me to focus on the high-level design and “story” of my website while it handled the complex formatting syntax. I see GenAI not just as a shortcut, but as a bridge that helps me apply my existing business knowledge to new technical challenges."
+  },
+  {
+    "objectID": "reflection.html#my-experience-with-genai",
+    "href": "reflection.html#my-experience-with-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this assessment, I utilized Gemini as a primary tool for both technical troubleshooting and content creation.\n\n\nOne of the most significant ways I used GenAI was for content generation. I provided Gemini with my summer internship report from Rally AI and asked it to: * Summarize Technical Contributions: It helped translate my raw report data into concise bullet points for my project page. * Draft Narratives: Gemini assisted in drafting a professional self-introduction for my homepage that balanced my Fintech studies with my passion for competitive basketball. * Refining Tone: The AI helped ensure my writing style was professional and suited for a public-facing portfolio.\n\n\n\nBeyond writing, Gemini acted as a technical partner for the website’s infrastructure: * YAML Debugging: It was instrumental in identifying the strict indentation requirements in the _quarto.yml file, which solved several rendering errors. * Layout Management: I used GenAI to learn the specific Quarto syntax needed to create a multi-column layout for my photos and text. * Prompt Engineering: My experience with prompt engineering during my internship helped me provide better context to Gemini, allowing it to generate the specific “Before vs After” data visualization narrative I needed for my hit-rate analysis.\n\n\n\nAs a Year 2 Fintech student transitioning from an accounting background, using GenAI has been a major boost to my productivity. It allowed me to focus on the high-level design and “story” of my website while it handled the complex formatting syntax. I see GenAI not just as a shortcut, but as a bridge that helps me apply my existing business knowledge to new technical challenges."
   }
 ]

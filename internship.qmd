@@ -1,0 +1,17 @@
+---
+title: "Internship Project: Rally AI"
+---
+
+## Overview
+
+During the summer of 2025, I interned at **Rally AI**, an early-stage startup developing an AI-powered marketplace for mystery shoppers. My role involved bridging the gap between business operations and technical development.
+
+## Technical ContributionsS
+
+* **Prompt Engineering**: Developed response evaluators to check user inputs and built consumer profiling logic.
+* **UI/UX Testing**: Designed mockups using Figma and conducted rigorous bug reporting in staging environments.
+* **Feature Ideation**: Investigated “Receipt Fingerprint Hashing” as a method for fake receipt detection.
+
+## Key Learnings
+
+Transitioning from a finance background to a technical environment, I learned the importance of the “Growth Mindset” and proactive project management in a fast-paced startup.

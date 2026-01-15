@@ -1,1 +1,24 @@
-Welcome to my world!
+---
+title: "Home"
+---
+
+::: {layout="[60, 40]"}
+
+### Welcome to my world!
+
+I am **Wei Qin**, a Year 2 **Fintech** student at the Singapore Institute of Technology (SIT). 
+
+Beyond the world of finance and technology, I am a passionate athlete. I play competitive basketball and enjoy staying active through regular gym sessions. I believe that the discipline required for sports translates directly into my academic and professional journey.
+
+![](images/Profile Pic.jpg){width=100% group="my-gallery"}
+
+![](images/Basketball photo of me.jpg){width=100% group="my-gallery"}
+
+:::
+
+---
+
+### More about me
+* **Current Major:** Applied Computing (Fintech) 
+* **Interests:** Financial Data Engineering, Sports Science, and Competitive Basketball.
+* **Goal:** To bridge the gap between financial services and cutting-edge technology.
