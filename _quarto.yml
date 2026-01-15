@@ -4,6 +4,7 @@ project:
 
 website:
   title: "w-weiqin's Website"
+  search: false
   navbar:
     left:
       - href: index.qmd

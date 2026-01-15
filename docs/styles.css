@@ -1,0 +1,6 @@
+/* This forces images on the home page to have a consistent max height */
+.quarto-figure img {
+  max-height: 400px; 
+  object-fit: cover; /* This prevents stretching while maintaining the size */
+  width: auto;
+}

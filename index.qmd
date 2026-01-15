@@ -8,11 +8,15 @@ title: "Home"
 
 I am **Wei Qin**, a Year 2 **Fintech** student at the Singapore Institute of Technology (SIT). 
 
+
+::: {layout-nw="[1, 1]" .v-center}
+![](images/Profile Pic.jpg){width="100%" fig-align="center"}
+
+![](images/Basketball photo of me.jpg){width="100%" fig-align="center"}
+
+:::
 Beyond the world of finance and technology, I am a passionate athlete. I play competitive basketball and enjoy staying active through regular gym sessions. I believe that the discipline required for sports translates directly into my academic and professional journey.
 
-![](images/Profile Pic.jpg){width=100% group="my-gallery"}
-
-![](images/Basketball photo of me.jpg){width=100% group="my-gallery"}
 
 :::
 
